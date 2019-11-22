@@ -1,3 +1,3 @@
-### :books: Rocketseat-modulo01
+### :books: Rocketseat - Módulo 01
 
 - Introdução ao Node.js
